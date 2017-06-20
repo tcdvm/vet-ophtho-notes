@@ -6,5 +6,5 @@
 
 ## Cornea
 
-* [Corneal Anatomy](cornea.md)
+* [Anatomy & Physiology](cornea.md)
 
