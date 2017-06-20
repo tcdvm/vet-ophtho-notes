@@ -12,3 +12,6 @@
 2. The stroma makes up 90% of the corneal thickness. It is primarily collagen and GAGs and has low cellularity. The collagen in lamellae span corneal diameter. The stroma can take months to rebuild when damaged. The collagen is formed from keratocytes (modified fibroblasts). 90% of corneal thickness.
 
 3. The endothelium and its basement membrane (Descemet’s membrane) make up the inside layer. Proliferative potential is very low. Single layer of hexagonal cells that are important in maintaining state of relative dehydration of cornea.
+
+### Thickness
+* The cornea is 0.5-0.6 mm thick in the dog and cat and about 1 mm in horses.
