@@ -1,5 +1,10 @@
 # Summary
 
+## General Info
+
 * [Syllabus](README.md)
-* [Cornea](cornea.md)
+
+## Cornea
+
+* [Corneal Anatomy](cornea.md)
 
