@@ -65,6 +65,7 @@
     * Action: Paralyzes ciliary muscle and iris sphincter muscle; therefore, decreases pain and dilates pupil, respectively.
     * Avoid when glaucoma is present.
     * Normal tear production is controlled primarily by the parasympathetic nervous system; therefore, one can get decreased tear production with use of atropine.
+
 * Tropicamide
     * 1% ophthalmic solution
     * Routinely used for ophthalmic examinations
