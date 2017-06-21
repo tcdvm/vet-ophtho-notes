@@ -60,7 +60,8 @@ may become lodged behind the third eyelid.
 5. Keratoconjunctivitis sicca: A disease resulting in keratitis and conjunctivitis caused by a lack of aqueous tear production.
    * Diagnostics
      * Schirmer tear test, often have large amounts of mucopurulent exudate Treatment
-     * See lecture on lacrimal disease 6. Indolent ulcers – see below
+     * See lecture on lacrimal disease 
+6. Indolent ulcers – see below
 
 
 
