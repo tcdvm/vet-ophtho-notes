@@ -27,6 +27,7 @@ Fluorescein stain is the diagnostic modality of choice. Fluorescein is a water s
 5. Dry eye
 6. Indolent ulcers
 
+
 1. Trauma: History of exposure to other pets, flora, alkali, shampoo, mace, shape of ulcer.
     * Treatment
         * Prevent infection: Use a broad spectrum antibiotic such as triple antibiotic TID-QID
