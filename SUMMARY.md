@@ -4,8 +4,9 @@
 
 * [Syllabus](README.md)
 
-## Cornea
+## Hendrix
 
-* [Anatomy & Physiology](cornea.md)
+* [Corneal Anatomy & Physiology](cornea.md)
 * [Ocular Pharmacology](ocular-pharmacology.md)
+* [Corneal Ulceration](corneal-ulceration.md)
 
