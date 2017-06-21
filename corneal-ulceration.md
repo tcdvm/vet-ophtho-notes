@@ -58,7 +58,6 @@ may become lodged behind the third eyelid.
     * Treatment
         * Usually can remove the foreign body with just topical anesthesia and very fine forceps. Also hydropulsion can work well. Occasionally will need to cut over the foreign body to retrieve it.
 5. Keratoconjunctivitis sicca: A disease resulting in keratitis and conjunctivitis caused by a lack of aqueous tear production.
-
    * Diagnostics
      * Schirmer tear test, often have large amounts of mucopurulent exudate Treatment
      * See lecture on lacrimal disease 6. Indolent ulcers – see below
