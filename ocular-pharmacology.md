@@ -23,3 +23,7 @@
     * Polymixin B
         * Bactericidal against gram negative organisms
         * Development of resistance is unlikely
+
+* Aminoglycosides
+    * Basic spectrum is gram negative
+    * Gentamicin, tobramycin
