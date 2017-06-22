@@ -63,5 +63,167 @@ may become lodged behind the third eyelid.
      * See lecture on lacrimal disease 
 6. Indolent ulcers – see below
 
+---
+
+## Superficial Ulcers
+A relatively flat corneal surface will be seen; ulcer may not be visible without fluorescein stain. Signs are blepharospasm, epiphora, discharge, evidence of pain, and conjunctival hyperemia. After any predisposing factors are eliminated, these ulcers are generally treated with triple antibiotic and atropine. 
+
+## Stromal ulcers
+Any ulcer that invades the stroma resulting in a divot that makes the corneal contour uneven. Simply an ulcer that’s extended beyond the epithelium into the stroma. Can extend into the superficial stroma, mid-stroma, or deep stroma. Dog may or may not be in extreme pain. Some are infected and have a gelatinous appearance (MMPs) and are  rapidly progressing; others are a continuation of the inciting cause. Treatment of this ulcer is dependent on infection, “melting” and predisposing cause.
+
+## Descemetocele 
+A very deep ulcer that extends all the way through the stroma to Descemet's membrane.  Characteristically the walls of the descemetocoele take up stain and the floor of the ulcer does not. Surgery should be done.
+
+## Perforation/Iris Prolapse
+Occurs with trauma or worsening of a deep ulcer to the point of a hole developing in the cornea. Within minutes of perforation, the hole becomes plugged with fibrin or iris. Fluorescein stain may show aqueous leakage. Look for collapsed anterior chamber, fibrin plug, miotic pupil, hypopyon. These should always be cultured!
+
+## Facet 
+A “divot” in the corneal stroma that has an intact overlying epithelium. It takes some time for the keratocytes to secrete enough collagen to completely fill the stomal defect. If re- epithelialization occurs prior to complete filling, then a facet will be present. On occasion, especially in older dogs, the defect may never completely fill in, leaving a chronic facet. This is almost never a problem…it’s only a concern if the facet is so deep that the cornea is significantly thinned and weakened.
+
+## Melting ulcers (Collagenolytic)
+Etiology: Melting ulcers are stromal ulcers complicated by the release of proteases and collagenases called matrix metalloproteinases that cause rapid progressive stromal dissolution. Matrix metalloproteinases are a family of enzymes that have proteolytic activity. There are over a dozen different MMPs, most of which are known by numbers – MMP1, MMP2, etc. Collagenase is also an MMP. Several MMPs have been shown to be associated with rapid degradation of the corneal stroma in some cases of corneal ulceration. If MMP activity is  present in a case of corneal ulceration, the stroma will rapidly degrade, and appear soft and malacic. The portion of the cornea that takes up stain is grayish and generally extends beyond (in front of the surrounding epithelium) because it is so edematous. If it sloughs it may leave a descemetocele.
+
+### Where do MMPs come from?
+1. The cornea itself. MMPs are normally present in the cornea and serve the function of cleaning up necrotic debris in cases of stromal ulceration. Occasionally these enzymes go beserk for no apparent reason and don’t stop when they’re done cleaning…they continue right on through normal, healthy corneal stroma. This overactive expression of corneal MMPs seems more common in eyes of brachycephalics. We do know that one cause of stimulation of otherwise latent MMPs is administration of topical corticosteroids. This is but one reason that steroids are STRICTLY CONTRAINDICATED in cases of corneal ulceration.
+2. Invading leukocytes, especially PMNs. PMNs are a double-edged sword in cases of corneal ulceration. They are necessary to keep infection at bay, but they also liberate large quantities of proteolytic enzymes, including MMPs. This would make you think that steroid administration might be helpful, in that they do inhibit influx of PMNs – but this potential positive benefit is far outweighed by the fact that they will activate latent MMPs as mentioned above, and also make the cornea more susceptible to infection.
+3. Microorganisms. A large variety of bacterial and fungal organisms are capable of secreting MMPs. Enzymatic digestion of the cornea is favorable to their survival. As for bacteria Pseudomonas and β hemolytic Streptococcus are the best MMP secretors. For this reason, all melting ulcers should be scraped for cytology and samples submitted for bacterial culture and sensitivity. Fungal ulcers are rare in small animals.
+
+## Deep ulcers (Stromal ulcers, descemetoceles, perforations and melting ulcers)
+
+### Etiologies for ulcers with stromal loss
+1. Bacterial infection
+2. Fungal infection
+3. Uncomplicated ulcer gone bad
 
 
+1. Bacterial infection: Most are infected with Pseudomonas, staphylococcus or streptococcus. Must scrape for cytology and culture.
+2. Fungal infection: Rare in small animals. May appear brown in color. Identify based on cytology and culture. Treat with antifungals.
+3. Chronic unrelenting irritation: Any deep ulcer requires a complete ophthalmic exam, cytology, C&S.
+
+## General therapy of deep ulcers
+
+Prognosis is dependent upon history, duration, presence of infection.
+
+### Medical treatment alone
+1. Topical antibiotics Q2H based on cytology and culture (usually ciprofloxacin or
+tobramycin with cefazolin)
+2. Serum Q2H if melting or infected
+3. Atropine to effect. Usually required QID in the beginning
+4. E-collar
+
+### Surgical treatment
+1. Conjunctival graft (this is a must for descemetoceles or iris prolapse) A conjunctival pedicle graft is a surgical procedure in which a strip of bulbar conjunctiva is sutured over the corneal ulcer. This gives the compromised cornea some structural support making it less likely to perforate and transposed conjunctiva will also have some fibroblasts on it, which will further serve to strengthen the wound. Second and probably most importantly, it provides a constant blood supply to the ulcer. The blood supply is important because serum contains a couple of compounds that inhibit MMP activity: α2-macroglobulin and α1-antitrypsin. Commercially available collagen sheets are available to place between the ulcer and the graft. Two such products are: BioSys™, which is made from porcine small intestinal submucosa, and A-Cell™, which is made from urinary bladder. 
+2. Enucleation – when all else fails and there is no hope for vision.
+
+## Indolent ulcers (Superficial chronic corneal epithelial defect – SCCED)
+A chronic SUPERFICIAL non-healing ulcer with loose edge of epithelium. The general pathology appears to be due to lack of functional hemidesmosomes. There have been several hypotheses regarding why this occurs, including (i) a primary corneal dystrophy; (ii) overactive levels of protease in the tear film which degrade the fibronectin network onto which the basal epithelial cells migrate; and (iii) the presence of an acellular zone in the anterior stroma that prevents attachment of an overlying epithelium. There may, in fact, be more than one pathophysiology, with indolent ulceration being a “final common pathway.” These are seen especially in boxers and old Golden Retrievers. Fluorescein stain may migrate under the loose edge. There is no sign of infection such as a stromal cellular infiltrate or deepening of the ulcer.
+
+### Treatment
+* Debride with dry cotton swab after applying topical anesthetic AND
+* Grid keratotomy or punctate keratotomy - A 22 – 25 ga. needle is used to make cross- hatches over the ulcer bed. These “scratches” should be into the superficial stroma, but no deeper. They should begin about 1 mm in normal epithelium, extend across the ulcer bed, and continue into normal epithelium on the other side for about 1 mm. The scratches should be about 1 mm apart. Be certain to do this sterilely. It is not know why this procedure facilitates the “next wave” of epithelium to adhere, but it might be due to disruption of a putative anterior stromal acellular zone. An alternative, but essentially identical, procedure is multiple punctate keratotomy. OR
+* Diamond burr AND
+* Antibiotics – topical ophthalmic oxytetracycline may help by stimulating transforming growth factor β thereby enhancing epithelial migration.
+
+### Additional therapies
+* Serum
+* Adequan™. A polysulfated glycosaminoglycan labeled for intraarticular use in the 
+horse or intramuscular use in the dog in the treatment of arthritis. PSGAGs are protease inhibitors. As it has been shown that at least some indolent ulcers are due to an overactive tear film protease system that then degrades the fibronectin network on which the basal epithelial cells try to migrate, PSGAGs may reduce these proteases and allow the fibronectin to form. We suggest the equine product, which comes in 2 ml syringes and needs to be diluted 1:1 with artificial tears to prepare eye drops.
+* Topical morphine sulfate eye drops. A therapy for alleviating the pain associated with disruption of corneal nerve endings. The solution is made from 1% IV morphine, and is given TID. This therapy has been shown to NOT interfere with corneal wound healing.
+* Cyanoacrylate – 19 of 20 healed. Can be tricky to apply and can be irritating.
+* +/- E-collar
+* Contact lens - Simply protects any newly formed epithelium from being wiped away by the action of the eyelids. Used only rarely because of the retention rate.
+* Other alternatives include a lamellar keratectomy or a conjunctival pedicle graft…I usually reserve these therapies for indolent ulcers that haven’t healed after 6-8 weeks of appropriate therapy. Other reported therapies that I don’t tend to use very much include hyperosmotic sodium chloride, topical chemical cautery agents and third eyelid flaps.
+* Typically recheck these in a week or 2 and utilize various therapies. These may take weeks to heal, may recur in same eye or occur in the other eye.
+
+## Corneal laceration
+
+Lacerations are caused by trauma. Depth determines treatment regimen.
+
+* If less than ½ thickness can treat medically, if > 2/3 thickness needs primary closure.
+* If the lens has been perforated, the lens or globe may need to be removed.
+
+### Treatment
+* Medical treatment: treat as if corneal ulcer. Watch for signs of infection
+* Surgical treatment: close primarily with sutures
+
+## Pigmentary Keratitis
+* Non-specific changes that develop with long standing trauma/ irritation to the cornea.
+* Manifests as corneal vascularization, corneal pigmentation, corneal scarring 
+
+Etiologies of pigmentary keratitis
+1.	Keratoconjunctivitis sicca
+2.	Trichiasis/Aberrant dermis
+3.	Nasal fold trichiasis
+4.	Pagoda lid/Ectropion
+5.	Lagophthalmia
+6.	Entropion
+
+## Pannus (or chronic superficial keratitis)
+An often bilateral immune mediated vascularized, pigmented lesion of the cornea. Begins as a red vascularized conjunctival lesion. Initially invades the temporal or inferior temporal limbus. Vascularization and pigmentation then invades the central cornea. Eventually it is a fleshy lesion that may involve the entire cornea, causing blindness. The etiology is probably multifactorial, incorporating immune-mediated, genetic, and UV radiation. German shepherds are predisposed although it can occur in any breed.
+
+### Diagnostics
+* Appearance, signalment. Cytology will reveal lymphocytes and plasma cells.
+
+### Treatment
+* This disease is usually controllable but not curable. Begin treatment with topical dexamethasone or prednisone TID to QID then taper down to a controlling dose. It may take 3-4 weeks to get response. Cyclosporine or tacrolimus can also be used especially for maintenance. Very rarely can a pannus dog go off therapy completely. Most of these dogs can go down to once daily or once every other day dex or CsA or tacrolimus to stay in remission. The vascularization is used to monitor whether the lesion is quiescent or active.
+* Radiation can be used in severe cases.
+
+## Differentiation of Whitish Corneal Lesions
+
+### Scars
+Result from abnormal alignment of corneal stromal lamella or thickening or hyperkeratosis of the corneal epithelium. Usually occur 2° to ulceration or other chronic disease.
+
+Appearance
+* Grey irregular opacity +/- vessels and pigment
+
+Diagnostics
+* Fluorescein negative, white or pigmented opacity
+
+### Corneal dystrophy (lipid dystrophy)
+A primary, axially located, bilateral, inherited disorder of the cornea that is not accompanied by corneal inflammation or systemic disease. Typically this results from deposition of lipid in the cornea.
+
+Etiology
+* Inherited condition in which the corneal metabolism is not normal.
+* Inheritance has been proven in many breeds. Some of the breeds that it is most frequently seen in are the Shetland sheepdog, beagle, husky. This disease is bilateral and symmetrical.
+
+Appearance
+* Bilateral usually oval white/grey glittery refractile opacity on the cornea with no vessels
+
+Treatment:
+* Usually none needed, if becomes severe, anecdotally a low fat diet might help if the dog is on a high fat diet and some have reported a response to cyclosporine A. Additionally, rule out Cushing’s or hypothyroidism.
+
+### Corneal degeneration
+Deposition of lipid and/or calcium secondary to some other ocular disease. Usually surface disease like ulceration.
+
+#### Lipid keratopathy 
+Appears as a white grey glittery appearance +/- vessels and pigmentation. Seems very common in the German shepherd.
+
+Treatment
+* Usually none needed, if becomes severe, anecdotally a low fat diet might help if the dog is on a high fat diet and some have reported a response to cyclosporine A. Additionally, rule out Cushing’s or hypothyroidism.
+
+#### Calcific keratopathy 
+A disorder of the cornea that is characterized by deposition of mineral (usually calcium) in the cornea. Corneal calcification generally appears as short spicules of a whitish, chalky looking material in the superficial corneal stroma. May be primary disease in geriatric dogs.
+
+Treatment
+* If becomes severe, try treatment with topical EDTA in artificial tears to chelate the calcium as it can lead to descemetocele formation.
+
+#### Corneal edema 
+Greyness to the cornea occurring 2° to excessive fluid between the corneal lamellae. Caused by glaucoma, ulceration, anterior uveitis, endothelial dystrophy, or lens luxation. Normally edema is prevented by the endothelial Na-K-ATPase pumps and the corneal epithelium acting as a physical barrier to the entrance of tears into the stroma. 
+
+* Endothelial dystrophy
+	* A progressive dysfunction of the endothelial cells
+	* Boston Terriers, Chihuahuas and Dachshunds
+	* Typically develops in middle aged and older dogs
+	* Primary clinical sign is an axial or temporal focus of corneal edema that usually progresses to involve the entire cornea.
+	* Topical hyperosmotic (5%) sodium chloride ointment may draw the corneal edema fluid into the tear film, but this ointment generally can’t keep pace with the entry of fluid into the cornea so it is minimally effective.
+	* If the edema becomes bad enough, it will result in the formation of actual “blisters” within the cornea called corneal bullae (and hence goes by the name “bullous keratopathy”). These bullae can rupture, causing a superficial ulcer that is very difficult to get to heal.
+
+* Endothelial degeneration.
+	* Being a very wimpy cell type, anything that traumatizes, touches or in any way negatively affects the endothelium can cause endothelial dysfunction.
+	* Even aging can lead to edema because all mammals are born with a certain complement of endothelial cells, and they begin dropping out early in life. Being post-mitotic, they cannot replace themselves (at least in most species). In some individuals, the degree of endothelial cell loss is sufficient to result in edema in old age.
+
+Treatment
+* If the edema becomes severe, corneal bulla may form. Then use 5% NaCI ophthalmic ointment QID. The NaCl will not take the edema away; it will just reduce it to the point that bulla no longer form.
+
+### Corneal stria 
+White/grey linear streaks in the deep cornea that occur due to breaks in Descemet's membrane secondary to glaucoma.
