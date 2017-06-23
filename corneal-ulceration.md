@@ -227,3 +227,34 @@ Treatment
 
 ### Corneal stria 
 White/grey linear streaks in the deep cornea that occur due to breaks in Descemet's membrane secondary to glaucoma.
+
+---
+
+# Corneal Masses
+
+Etiologies
+1.	Corneal neoplasia
+2.	Limbal melanoma
+3.	Dermoid
+4.	Epithelial inclusion cyst
+5.	Granulation tissue
+
+
+1.	Corneal neoplasia: Squamous cell carcinoma is most common but extremely rare in dogs and cats.
+* Diagnostics
+    * Histopath of biopsy specimen, cytology may be suggestive of neoplasia but is rarely diagnostic.
+* Treatment
+    * Keratectomy +/- Strontium irradiation
+2.	Limbal melanoma: A darkly pigmented infiltrative benign tumor at the limbus. Usually located at the dorsal limbus and are slightly elevated. More common in large breed dogs especially German Shepherds and labs. These tumors tend to be more invasive and grow more rapidly in younger dogs. In older dogs the tumors are more static. While these tumors are benign by definition, they can be locally invasive.
+    * Treatment
+        * If it is an old dog and the mass is not progressing, it can be watched. Current therapy is diode laser therapy or cryotherapy. The diode preferentially photoablates darkly pigmented tissues and is an easy, effective, and minimally invasive therapy. Also a full thickness scleral graft can be done.
+3.	Dermoid: A congenital brown to pink mass on cornea with hair growing from it. Congenital but may not cause a problem until the dog is 6 months to a year of age.
+    * Treatment
+        * Keratectomy, usually dermoids are very superficial
+4.	Epithelial inclusion cyst: A raised cystic structure lined by nonkeratinized squamous epithelium. Usually caused by trauma.
+    * Treatment
+        * Keratectomy
+5.	Granulation tissue: Pink fleshy mass occurring with chronic injury such as entropion. Treat inciting cause. Topical steroids may be used in select cases to hasten resolution.
+6.	Nodular granulomatous episclerokeratitis (NGE): An idiopathic inflammatory lump at the limbus made up of fibroblasts, lymphocytes, and macrophages, with occasional neutrophils and plasma cells. Has gone by many other names in the past (nodular fasciitis, fibrous histiocytoma, collie pseudotumor), but these are probably slightly different variations of the same syndrome. Has a breed predisposition for Collies and Shelties, but can be seen in any breed.
+    * Treatment
+        * Generally responds to a variety of immunosuppressive strategies, including topical corticosteroids, oral azothioprine and β-irradiation. Also can be treated with surgical excision, and even subtotal resection is often curative.
