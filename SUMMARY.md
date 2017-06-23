@@ -6,6 +6,7 @@
 
 ## Hendrix
 
-* [Cornea](cornea.md)
 * [Ocular Pharmacology](ocular-pharmacology.md)
+* [Cornea](cornea.md)
+* [Conjunctiva](conjunctiva.md)
 
