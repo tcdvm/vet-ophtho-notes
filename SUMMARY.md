@@ -6,7 +6,6 @@
 
 ## Hendrix
 
-* [Corneal Anatomy & Physiology](cornea.md)
+* [Cornea](cornea.md)
 * [Ocular Pharmacology](ocular-pharmacology.md)
-* [Corneal Ulceration](corneal-ulceration.md)
 
