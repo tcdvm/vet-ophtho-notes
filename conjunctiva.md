@@ -13,8 +13,8 @@
 ## Conjunctivitis
 
 ### Pathologic responses
-	* Acute: Hyperemia, cellular exudates, edema (chemosis), ocular discharge, blepharospasm
-	* Chronic: Goblet cell proliferation, keratinization, and follicle formation.
+* Acute: Hyperemia, cellular exudates, edema (chemosis), ocular discharge, blepharospasm
+* Chronic: Goblet cell proliferation, keratinization, and follicle formation.
 
 ### Bacterial conjunctivitis 
 A rarely occurring primary bacterial infection of the conjunctiva leading to purulent discharge and conjunctival hyperemia.
