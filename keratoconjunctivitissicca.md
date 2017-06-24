@@ -21,13 +21,13 @@ A deficiency in tear production of the severity that the health of the eye is co
 KCS is the single most common cause of “conjunctivitis” in dogs and can lead to blindness!
 
 ## Diagnosis
-	* Clinical signs
-	* Schirmer Tear Test
-		* Normal: 15-25mm/min
-		* Subnormal: 0-10 mm/min
-		* “Gray Zone”: 10-14 mm/min
-        * If the tear production is in the gray zone then go by the clinical signs or recheck in a couple of weeks.
-	* Qualitative tear film deficiency can cause signs similar to qualitative tear film deficiency but occurs when there is either too little lipid or mucous.
+* Clinical signs
+* Schirmer Tear Test
+    * Normal: 15-25mm/min
+    * Subnormal: 0-10 mm/min
+    * “Gray Zone”: 10-14 mm/min
+    * If the tear production is in the gray zone then go by the clinical signs or recheck in a couple of weeks.
+* Qualitative tear film deficiency can cause signs similar to qualitative tear film deficiency but occurs when there is either too little lipid or mucous.
 
 ## Differential Etiologies
 1.	Immune-mediated (autoimmune adenitis) - most common cause of KCS in dogs.
