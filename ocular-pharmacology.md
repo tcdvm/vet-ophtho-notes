@@ -23,16 +23,13 @@
     * Polymixin B
         * Bactericidal against gram negative organisms
         * Development of resistance is unlikely
-
 * Aminoglycosides
     * Basic spectrum is gram negative
     * Gentamicin, tobramycin
-
 * Chloramphenicol
     * Basic spectrum is gram positives, some gram negatives, mycoplasma, Rickettsial NOT Pseudomonas
     * Penetrates the intact epithelium better than most antibiotics
     * Beware of public health significance
-
 * Cephalosporins
     * Gram positive and gram negative spectrum
     * Gram positive spectrum decreases and the gram negative spectrum increases with increasing generations
