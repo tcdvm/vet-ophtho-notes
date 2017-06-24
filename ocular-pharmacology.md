@@ -47,7 +47,6 @@
 * Serum
     * Contains macroglobulins and other substances that decrease matrix metalloproteinase activity and increase epithelial healing.
     * Let blood clot, centrifuge, draw off the serum. Keep it sterile and refrigerated. Good for 1-2 weeks. If it gets cloudy or contaminated discard. Bacteria proliferate in serum and infected serum would not help the ulcer heal!!!
-
 * Cross-linked hyaluronan (Remend)
     * May accelerate resolution of corneal ulcers
     * May encourage a more normal epithelial architecture
