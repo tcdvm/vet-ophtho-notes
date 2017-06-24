@@ -46,7 +46,7 @@ KCS is the single most common cause of “conjunctivitis” in dogs and can lead
 11.	Hypothyroidism may be associated with KCS
 
 ## Treatment
-* Medical
+### Medical
 1.	Replace the tears - artificial tear ointment
 Multiple tear replacers are available on the market. Artificial tear solution has such a brief contact time that it is rarely beneficial in veterinary medicine. High  viscosity polymers help in corneal wetting and prevention of evaporation but they can be quite expensive. Artificial tear ointments with a petrolatum base are less expensive and have excellent contact time. Depending on the tear production, may use as often as every 4 hours. Genteal, which is hydroxypropylmethylcellulose, lasts almost as long as the hydrocarbon-based ointment products, but is less “slimy” and appears to be a little more comforting than the ointments. In mild cases of lagophthalmia artificial tears alone may keep the keratitis in check.
 2.	Create more tears - Cyclosporine A
@@ -61,7 +61,7 @@ Occasionally the conjunctivitis is severe so that even if the tears are made, th
 5.	Pilocarpine - parasympathomimetic drug
 Increases tear production by stimulating the parasympathetic innervation in the nasolacrimal gland. Dose is 2 drops of 2% pilocarpine 2 times per day per 20 lbs. This is only effective for the rare neurogenic KCS.
 
-* Surgical
+### Surgical
 Parotid duct transposition. A last resort to restore corneal moisture when all else has
 failed. Surgery is pretty much what it sounds like. Surgery is a bit tedious, so this is one of the few ocular surgeries that we generally recommend referring. Potential complications: overflow of moisture onto the face, corneal mineralization, fibrosis of the duct, poor salivary secretions, and sialolith formation.
 
